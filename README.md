@@ -76,6 +76,7 @@ AWS Lambda, DynamoDB, Redis, Python, AWS CDK
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Ortiz-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/daniel-david-ortiz-villanueva-7a8053257/)
+[![Portfolio](https://img.shields.io/badge/LinkedIn-Daniel_Ortiz-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://ddov-portfolio.azurewebsites.net/)
 
 📧 [ddov0811@gmail.com](mailto:ddov0811@gmail.com)
 
